@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZEFIROFF</h1>
-<h3 align="center">Web 3.0 developer | Ethereum/Tron/Ton/Near/Polygon/ETH:L2</h3>
+<h3 align="center">Web 3.0 developer | Solana/Tron/Near/BSC/ETH:L2</h3>
 
 - 🔭 I’m currently working on my acceptance of payments in cryptocurrency and transaction monitoring in mempool **Crypto-Pay**
 
