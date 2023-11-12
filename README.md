@@ -8,7 +8,7 @@
 
 - ⚡ I have ENS **[zefiroff.eth](https://app.ens.domains/zefiroff.eth)**
 
-- 🥳 Since 2017 I have been developing commercial and my own projects
+- 🥳 Since 2020 I have been developing commercial and my own projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
